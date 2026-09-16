@@ -14,7 +14,8 @@ input: F 212
 output: K: 373.15, C:100, F:212
 
 ## team members
-1:Dylan eifert
+1:Dylan
+2:AnDrell
 
 ## notes
 -giving a string longer than 30 characters for the first value makes the second number default to 0 unless you put numbers after the 30th character then it uses those numbers for the second value
